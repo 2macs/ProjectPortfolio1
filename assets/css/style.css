@@ -1,0 +1,13 @@
+/* Import cool fonts, Lato one of the most commonly used */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Oswald&display=swap');
+
+/* Style the header */
+header h1 {
+    font-family: Lato, sans-serif;
+    color: rgba(0,0,0,1);  /* black text */ 
+    font-size: 250%;         /* header stand out */
+    float: left;
+    margin: 30px; 
+}
+
+/* Style the nav options - to the right of the banner on same level */
