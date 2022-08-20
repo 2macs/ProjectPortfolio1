@@ -8,6 +8,7 @@ header h1 {
     font-size: 250%;         /* header stand out */
     float: left;
     margin: 30px; 
+    padding: right 60px;
 }
 
 /* Style the nav options - to the right of the banner on same level */
@@ -23,3 +24,16 @@ header h1 {
     font-size: 150%;
     text-decoration: none;          /* remove default underline */
 }
+
+/* Highlight menu selection */
+#header-nav li a:hover {
+    background-color: black;
+    color: white;
+}
+
+/* underline - highligh activie page */
+.active-page{
+    border-bottom: 1px solid rgba(0,0,0,1);
+}
+
+
