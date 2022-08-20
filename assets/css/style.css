@@ -11,3 +11,15 @@ header h1 {
 }
 
 /* Style the nav options - to the right of the banner on same level */
+#header-nav li {
+    float: right;     /* nav options to the right */
+    margin-right: 40px;  /* space between options */
+    font-family:Lato, sans-serif;  /* consistent with banner */
+    list-style-type: none;         /* remove default bullet points */
+       }
+
+#header-nav li a {
+    color:black;
+    font-size: 150%;
+    text-decoration: none;          /* remove default underline */
+}
