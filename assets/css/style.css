@@ -64,6 +64,39 @@ header h1 {
     background-color: black;
 }
 
+.site-info{
+    font-family:Lato, sans-serif; 
+    display: inline;
+    
+}
+
+/*position the amenity rate and code column, researched stack overflow site */
+
+#left-div {
+  display: inline-block;
+  height: 100%;
+  width: 33%;  /* using 33% pushed evrything down */ 
+  background-color: orange;
+  text-align: center;
+}
+#right-div {
+  display: inline-block;
+  height: 100%;
+  width: 33%;
+  background-color: green;
+  text-align: center;
+}
+
+#center-div {
+  display: inline-block;
+  height: 100%;
+  width: 33%;
+  background-color: yellow;  
+  text-align: center;  
+}
+
+
+
 
 
 
