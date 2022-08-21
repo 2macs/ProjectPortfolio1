@@ -43,4 +43,27 @@ header h1 {
     /*display: block;*/
 }
 
+/* style links on index.html */
+#main-links a {
+    width: 100%;
+    color:black;
+    font-size: 120%;
+    text-decoration: none;  
+    font-family:Lato, sans-serif; 
+    margin-left: 40px;
+    }
+
+#main-links{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;           
+}
+
+#main-links a:hover {
+    color: white;
+    background-color: black;
+}
+
+
+
 
