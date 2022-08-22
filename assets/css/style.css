@@ -146,7 +146,9 @@ header h1 {
 /* Style the footer */
 
 footer {
-    margin-top: 0;          
+    position:fixed    
+    bottom: 0;
+    right: 0;     
 }
 
 footer div {
