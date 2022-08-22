@@ -105,6 +105,7 @@ header h1 {
   width: 33%;
   background-color: yellow;  
   vertical-align: top;
+  font-family:Lato, sans-serif; 
    
 }
 #center-div h2 {
@@ -114,10 +115,12 @@ header h1 {
 
 #center-div p {
     padding-left: 10px;
+    
 }
 
 #center-div h3 {
     padding-left: 10px;
+    font-family:Lato, sans-serif; 
 }
 
 #left-list li {
@@ -132,6 +135,64 @@ header h1 {
     font-family:Lato, sans-serif; 
     font-size: 120%;
     padding-bottom: 10px;
+}
+
+#map img {
+    width: 100%;
+    margin-bottom: 1px;
+    border: 1px solid black;
+}
+
+/* Style the footer */
+
+footer {
+    margin-top: 0;          
+}
+
+footer div {
+    display: inline-block;
+}
+
+#call-to-action {
+    height: 150px;
+    background-color: darkslategrey;
+    font-family: lato, sans-serif;
+    border: 1px solid black;    
+}
+
+#link-me {
+    width: 33%;   
+    text-decoration: none;
+    list-style-type: none;      
+    float: left; 
+}
+
+#link-me li {
+    display: inline;
+    font-size: 200%;
+    text-align: center;    
+    height: 100%;
+}
+
+#footer-right {
+    width: 33%;
+    float: right;
+    text-align: center;
+    padding: 0px;
+}
+
+#footer-right a {
+    font-family: lato, sans-serif;
+    font-size: 120%;
+    text-decoration: none;
+    
+}
+
+#footer-mid {
+    margin: 0 auto;
+}
+#footer-mid h2 {
+    text-align: center;
 }
 
 
