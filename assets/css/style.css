@@ -210,20 +210,49 @@ footer div {
     height: 500px;
     display: inline-block;
 }
-#booking-form {
-    
-    text-align: center;
-    float: left;   
-}
+
 #left-div {    
     background-color: yellow;
     float: left;
 }
 #booking-form {
     background: url("/assets/images/site.jpg");
-    background-size: cover;
-   
+    background-size: cover;  
+    vertical-align: top;
+        
 }
+form h2 {
+    font-family: lato, sans-serif;
+    font-size: 150%;
+    padding-left: 10px;
+    
+}
+
+form label {
+    padding-left: 10px;    
+    margin-bottom: 10px;
+}
+
+form input {
+    width: 100px;
+    margin-left: 10px;
+    padding-left: 75px;
+    margin-bottom: 10px;
+}
+
+#submit {
+    background-color: green;
+    text-align: center;
+    width: 75px;;
+    padding-left: 10px;
+    
+}
+
+
+    
+
+
+
 
 
 
