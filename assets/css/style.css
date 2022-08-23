@@ -212,13 +212,16 @@ footer div {
 }
 #booking-form {
     
-    
     text-align: center;
-    background-color: blue;      
+    float: left;   
 }
 #left-div {    
     background-color: yellow;
     float: left;
+}
+#booking-form img {
+    width:100%;
+    height: 100%;
 }
 
 
