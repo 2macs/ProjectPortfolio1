@@ -15,7 +15,7 @@ header  {
     width: 100%;
     height: 100px;
     margin-bottom: 10px;
-    border: 1px solid black;
+    
 }
 
 /* Style the nav options - to the right of the banner on same level */
@@ -209,23 +209,52 @@ footer div {
     width: 33%;
     height: 500px;
     display: inline-block;
-}
+    margin-bottom: 5px;
+    }
 
 #left-div {    
-    background-color: yellow;
+    background-color:slategray;
     float: left;
+    position: relative;   
+    
+    
 }
 #left-div img{
     border-radius: 50%;  
-
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+#right-div {    
+    background-color:slategray;
+    float:right;
+    position: relative;  
+    margin-left: 0px; 
+    
+      
+}
+#right-div img{
+    border-radius: 50%;  
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
 }
 
 #booking-form {
     background: url("/assets/images/site.jpg");
     background-size: cover;  
-    vertical-align: top;
-        
+    vertical-align: top;  
+    margin-left: 10px;
+    margin-right: 0%;
 }
+
 form h2 {
     font-family: lato, sans-serif;
     font-size: 150%;
@@ -242,7 +271,7 @@ form label {
 form input {
     width: 100px;
     margin-left: 10px;
-    padding-left: 75px;
+    padding-left: 100px;
     margin-bottom: 10px;
 }
 #submit {
