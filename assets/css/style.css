@@ -231,6 +231,7 @@ form h2 {
 form label {
     padding-left: 10px;    
     margin-bottom: 10px;
+    font-family:lato, sans-serif;
 }
 
 form input {
@@ -244,8 +245,7 @@ form input {
     background-color: green;
     text-align: center;
     width: 75px;;
-    padding-left: 10px;
-    
+    padding-left: 10px;    
 }
 
 
