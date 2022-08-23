@@ -215,6 +215,11 @@ footer div {
     background-color: yellow;
     float: left;
 }
+#left-div img{
+    border-radius: 50%;  
+
+}
+
 #booking-form {
     background: url("/assets/images/site.jpg");
     background-size: cover;  
@@ -240,13 +245,14 @@ form input {
     padding-left: 75px;
     margin-bottom: 10px;
 }
-
 #submit {
     background-color: green;
     text-align: center;
     width: 75px;;
     padding-left: 10px;    
 }
+
+
 
 
     
