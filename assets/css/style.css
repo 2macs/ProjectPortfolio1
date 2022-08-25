@@ -147,83 +147,21 @@ header  {
         
 }
 
-/* Style the footer */
-
-footer {
-    position  :relative;   
-    
-}
-
-footer div {
-    display: inline-block;
-}
-
-#call-to-action {
-    height: 150px;
-    background-color: darkslategrey;
-    font-family: lato, sans-serif;
-    border: 1px solid black;    
-}
-
-#link-me {
-    width: 33%;   
-    text-decoration: none;
-    list-style-type: none;      
-    float: left; 
-}
-
-#link-me li {
-    display: inline;
-    font-size: 200%;
-    text-align: center;    
-    height: 100%;
-}
-
-#footer-right {
-    width: 33%;
-    float: right;
-    text-align: center;
-    padding: 0px;
-}
-
-#footer-right a {
-    font-family: lato, sans-serif;
-    font-size: 120%;
-    text-decoration: none;
-    color: black;    
-}
-
-/* dont change the icon once its clicked */
-#footer-right a:visited {
-    color: yellow;
-}
-
-#footer-mid {
-    margin: 0 auto;
-}
-#footer-mid h2 {
-    text-align: center;
-}
-
-#social-media-links a:visited {
-    color:yellow;
-}
 
 /*style booking form page */
 
 #my-booking div {
-    width: 33%;
+    
     height: 500px;
-    display: inline-block;
-    margin-bottom: 5px;
+    margin-bottom: 25px;
+    float: left;    
     }
 
 #left-div {    
-    background-color:slategray;
-    float: left;
-    position: relative;       
+    background-color:navy;    
+    position: relative; 
+    width:33%;     
 }
-
 #left-div img{
     border-radius: 50%;  
     position: absolute;
@@ -233,13 +171,19 @@ footer div {
     right: 0;
     bottom: 0;
 }
+
+#booking-form {
+    background: url("/assets/images/site.jpg");
+    background-size: cover; 
+    position: relative; 
+    vertical-align: top;  
+    width:33%;    
+}
 #right-div {    
-    background-color:slategray;
-    float:right;
-    position: relative;  
-    margin-left: 0px; 
-    
-      
+    background-color:navy;   
+    position: relative;
+    width: 33%;
+           
 }
 #right-div img{
     border-radius: 50%;  
@@ -252,13 +196,6 @@ footer div {
     background-size: cover;
 }
 
-#booking-form {
-    background: url("/assets/images/site.jpg");
-    background-size: cover;  
-    vertical-align: top;  
-    margin-left: 10px;
-    margin-right: 0%;
-}
 
 form h2 {
     font-family: lato, sans-serif;
@@ -308,6 +245,64 @@ form input {
     font-size: 120%;
     font-family: lato, sans-serif;
 }
+/* Style the footer */
+footer div {
+    display: inline-block;
+    
+}
+
+#call-to-action {
+    height: 150px;
+    background-color: darkslategrey;
+    font-family: lato, sans-serif;   
+    width:100%;    
+    }
+
+#link-me {
+    width: 33%;   
+    text-decoration: none;
+    list-style-type: none;      
+    float: left; 
+}
+
+#link-me li {
+    display: inline;
+    font-size: 200%;
+    text-align: center;    
+    height: 100%;
+}
+
+#footer-mid {
+    width: 33%;
+    float: left;
+}
+#footer-mid h2 {
+    text-align: center;
+}
+
+#footer-right {
+    width: 33%;
+    float: right;
+    text-align: center;
+    
+}
+
+#footer-right a {
+    font-family: lato, sans-serif;
+    font-size: 120%;
+    text-decoration: none;
+    color: black;    
+}
+
+/* make icon yellow once followed */
+#footer-right a:visited {
+    color: yellow;
+}
+
+#social-media-links a:visited {
+    color:yellow;
+}
+
 
 
 
