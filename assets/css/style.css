@@ -47,7 +47,6 @@ header  {
 #park-view img{
     height: 500px;
     width: 100%;
-    /*display: block;*/
 }
 
 /* style links on index.html */
@@ -79,38 +78,36 @@ header  {
 
 /*position the amenity rate and code column, researched stack overflow site */
 
-#left-div {
+#left-div-index {
   display: inline-block;
   height: 100%;
   width: 33%;  /* using 33% pushed evrything down */ 
-  background-color: orange;
+  color: blue;
   vertical-align: top;
   }
 
-  #left-div h2 {
+  #left-div-index h2 {
     text-align: center;
     padding-top: 10px;
   }
-#right-div {
+#right-div-index {
   display: inline-block;
   height: 100%;
   width: 33%;
-  background-color: green;  
   vertical-align: top;
+  color:blue;
   }
 
-#right-div h2 {
+#right-div-index h2 {
     text-align: center;
-    padding-top: 10px;
-    
+    padding-top: 10px;   
     
   }
 
 #center-div {
   display: inline-block;
   height: 100%;
-  width: 33%;
-  background-color: yellow;  
+  width: 33%;    
   vertical-align: top;
   font-family:Lato, sans-serif; 
    
@@ -147,7 +144,7 @@ header  {
 #map img {
     width: 100%;
     margin-bottom: 1px;
-    border: 1px solid black;
+        
 }
 
 /* Style the footer */
@@ -193,7 +190,12 @@ footer div {
     font-family: lato, sans-serif;
     font-size: 120%;
     text-decoration: none;
-    
+    color: black;    
+}
+
+/* dont change the icon once its clicked */
+#footer-right a:visited {
+    color: yellow;
 }
 
 #footer-mid {
@@ -201,6 +203,10 @@ footer div {
 }
 #footer-mid h2 {
     text-align: center;
+}
+
+#social-media-links a:visited {
+    color:yellow;
 }
 
 /*style booking form page */
@@ -215,10 +221,9 @@ footer div {
 #left-div {    
     background-color:slategray;
     float: left;
-    position: relative;   
-    
-    
+    position: relative;       
 }
+
 #left-div img{
     border-radius: 50%;  
     position: absolute;
