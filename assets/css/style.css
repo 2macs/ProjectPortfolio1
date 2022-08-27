@@ -76,8 +76,18 @@ section h2 {
 
 .site-info{
     font-family:Lato, sans-serif; 
-    display: inline;
+    display: flex;
     
+}
+
+.site-info-card {
+    border: 1px solid darkgray;
+    padding: 10px;
+    margin-right: 10px
+}
+
+.site-info-card h2{
+    text-align: center;
 }
 
 /*position the amenity rate and code column, researched stack overflow site */
@@ -85,7 +95,7 @@ section h2 {
 #left-div-index {
   display: inline-block;
   height: 100%;
-  width: 33%;  /* using 33% pushed evrything down */ 
+  width: 30%;  /* using 33% pushed evrything down */ 
   color: blue;
   vertical-align: top;
   }
@@ -230,10 +240,11 @@ form input {
 /*style explore page */
 
 .be-active div {
-    max-width: 100%;
+    max-width: 80%;
     height: 200px;
     border: 1px solid black;
     display: block;
+    margin: 20px auto;
 }
 .be-active h3 {
     text-align: center ;
@@ -246,7 +257,6 @@ form input {
 }
 
 .be-active p {
-    font-size: 120%;
     font-family: lato, sans-serif;
 }
 /* Style the footer */
@@ -307,6 +317,23 @@ footer div {
 
 #social-media-links a:visited {
     color:yellow;
+}
+
+/* mobile phones */
+@media only screen and (max-width: 768px) {
+
+}
+
+/* for tablet */
+@media only screen and (max-width: 992px) {
+    .site-info{
+        flex-direction: column;
+    }
+
+    .site-info-card {
+        width: 90% !important;
+        margin: 20px auto;
+    }
 }
 
 
