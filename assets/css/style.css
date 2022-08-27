@@ -355,17 +355,18 @@ footer div {
         background-color: blueviolet;
     }
     #page-nav {
-        width: 100%;
-        
+        width: 100%;  
+        background-color: green ;      
     }
 
     #banner h1{
         font-size: 1.2em;
+        text-align: center;
     }
     #header-nav li a {        
-        font-size: 0.9em;    
+        font-size: 0.7em;    
         display: inline;   
-                
+        text-align: center;                
     }
 }
 
