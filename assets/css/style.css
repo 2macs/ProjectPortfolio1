@@ -368,6 +368,14 @@ footer div {
         display: inline;   
         text-align: center;                
     }
+    .be-active div {        
+        height:auto;
+        border: 1px solid black;
+        display: block;
+        margin: 20px auto;
+        overflow: scroll;
+    }
+    
 }
 
 
