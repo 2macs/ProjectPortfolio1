@@ -2,33 +2,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Oswald&display=swap');
 
 /* Style the header */
-header h1 {
-    font-family: Lato, sans-serif;
-    color: rgba(0,0,0,1);  /* black text */ 
-    font-size: 250%;         /* header stand out */
-    float: left;
-    margin: 30px; 
-    padding: right 60px;
-}
-
 header  {
     width: 100%;
     height: 100px;
+    justify-content: center;
     margin-bottom: 10px;
-    
+    display: flex;    
+}
+
+#banner {
+    font-family: Lato, sans-serif;
+    color: rgba(0,0,0,1);  /* black text */ 
+    width:50%;
+}
+#banner h1 {
+    font-size: 2ev;         /* header stand out */
+}
+
+#Page-nav {
+    width: 50%;
 }
 
 /* Style the nav options - to the right of the banner on same level */
 #header-nav li {
-    float: right;     /* nav options to the right */
+         /* nav options to the right */
     margin-right: 40px;  /* space between options */
     font-family:Lato, sans-serif;  /* consistent with banner */
     list-style-type: none;         /* remove default bullet points */
+    display: inline;
        }
 
 #header-nav li a {
     color:black;
-    font-size: 150%;
+    font-size: 1.2em;
     text-decoration: none;          /* remove default underline */
 }
 
@@ -47,6 +53,7 @@ header  {
 #park-view img{
     height: 500px;
     width: 100%;
+    text-align: center;
 }
 
 /* style links on index.html */
@@ -262,7 +269,8 @@ form input {
 /* Style the footer */
 
 footer div {
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
         
 }
 
@@ -333,6 +341,31 @@ footer div {
     .site-info-card {
         width: 90% !important;
         margin: 20px auto;
+    }
+    footer div {
+        display: column;
+        width: 90%;            
+    }
+    header {
+        flex-direction: column;
+        margin-bottom: 5px;             
+    }
+    #banner {
+        width:100%;
+        background-color: blueviolet;
+    }
+    #page-nav {
+        width: 100%;
+        
+    }
+
+    #banner h1{
+        font-size: 1.2em;
+    }
+    #header-nav li a {        
+        font-size: 0.9em;    
+        display: inline;   
+                
     }
 }
 
