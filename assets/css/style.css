@@ -268,11 +268,6 @@ form input {
 }
 /* Style the footer */
 
-footer div {
-    display: flex;
-    flex-direction: column;
-        
-}
 
 #call-to-action {
     height: 150px;
@@ -280,6 +275,7 @@ footer div {
     font-family: lato, sans-serif;   
     width:100%;  
     overflow: hidden;   
+    display: flex;
     }
 
 #link-me {
@@ -342,9 +338,12 @@ footer div {
         width: 90% !important;
         margin: 20px auto;
     }
-    footer div {
-        display: column;
-        width: 90%;            
+    #call-to-action {
+        
+        width:100%;  
+                flex-direction: column;
+        }
+        
     }
     header {
         flex-direction: column;
