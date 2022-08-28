@@ -109,6 +109,9 @@ section h2 {
     display: flex;
     justify-content: center;
 }
+#site-info p{
+    font-size: 100%;
+}
 
 .site-info-card {
     border: 1px solid darkgray;
