@@ -2,21 +2,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Oswald&display=swap');
 
 /* Style the header */
-header  {
+header {
     width: 100%;
     height: 100px;
     justify-content: center;
     margin-bottom: 10px;
-    display: flex;    
+    display: flex;
 }
 
 #banner {
     font-family: Lato, sans-serif;
-    color: rgba(0,0,0,1);  /* black text */ 
-    width:50%;
+    color: rgba(0, 0, 0, 1);
+    /* black text */
+    width: 50%;
 }
+
 #banner h1 {
-    font-size: 2ev;         /* header stand out */
+    font-size: 2ev;
+    /* header stand out */
 }
 
 #Page-nav {
@@ -25,17 +28,21 @@ header  {
 
 /* Style the nav options - to the right of the banner on same level */
 #header-nav li {
-         /* nav options to the right */
-    margin-right: 40px;  /* space between options */
-    font-family:Lato, sans-serif;  /* consistent with banner */
-    list-style-type: none;         /* remove default bullet points */
+    /* nav options to the right */
+    margin-right: 40px;
+    /* space between options */
+    font-family: Lato, sans-serif;
+    /* consistent with banner */
+    list-style-type: none;
+    /* remove default bullet points */
     display: inline;
-       }
+}
 
 #header-nav li a {
-    color:black;
+    color: black;
     font-size: 1.2em;
-    text-decoration: none;          /* remove default underline */
+    text-decoration: none;
+    /* remove default underline */
 }
 
 /* Highlight menu selection */
@@ -45,35 +52,51 @@ header  {
 }
 
 /* underline - highligh activie page */
-.active-page{
-    border-bottom: 1px solid rgba(0,0,0,1);
+.active-page {
+    border-bottom: 1px solid rgba(0, 0, 0, 1);
 }
 
 /*style main image landing page */
-#park-view img{
-    height: 500px;
-    width: 100%;
-    text-align: center;
+#park-view {
+    background-image: url(/assets/images/IMG_2094.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#park-view p {
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-weight: bolder;
+    background: #00000091;
+    padding: 20px;
 }
 
 /* style links on index.html */
 #main-links a {
     width: 100%;
-    color:black;
+    color: black;
     font-size: 120%;
-    text-decoration: none;  
-    font-family:Lato, sans-serif; 
+    text-decoration: none;
+    font-family: Lato, sans-serif;
     margin-left: 40px;
-    }
+}
 
-#main-links{
+#main-links {
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 20px;           
+    margin-bottom: 20px;
 }
 
 section h2 {
-    font-family:Lato, sans-serif; 
+    font-family: Lato, sans-serif;
+    text-align: center;
 }
 
 #main-links a:hover {
@@ -81,10 +104,10 @@ section h2 {
     background-color: black;
 }
 
-.site-info{
-    font-family:Lato, sans-serif; 
+.site-info {
+    font-family: Lato, sans-serif;
     display: flex;
-    
+    justify-content: center;
 }
 
 .site-info-card {
@@ -93,71 +116,76 @@ section h2 {
     margin-right: 10px
 }
 
-.site-info-card h2{
+.site-info-card h2 {
     text-align: center;
 }
 
 /*position the amenity rate and code column, researched stack overflow site */
 
 #left-div-index {
-  display: inline-block;
-  height: 100%;
-  width: 30%;  /* using 33% pushed evrything down */ 
-  color: blue;
-  vertical-align: top;
-  }
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+    /* using 33% pushed evrything down */
+    color: blue;
+    vertical-align: top;
+}
 
-  #left-div-index h2 {
+#left-div-index h2 {
     text-align: center;
     padding-top: 10px;
-  }
+}
+
 #right-div-index {
-  display: inline-block;
-  height: 100%;
-  width: 33%;
-  vertical-align: top;
-  color:blue;
-  }
+    display: inline-block;
+    height: 100%;
+    width: 33%;
+    vertical-align: top;
+    color: blue;
+}
 
 #right-div-index h2 {
     text-align: center;
-    padding-top: 10px;   
-    
-  }
+    padding-top: 10px;
+
+}
 
 #center-div {
-  display: inline-block;
-  height: 100%;
-  width: 33%;    
-  vertical-align: top;
-  font-family:Lato, sans-serif; 
-   
+    display: inline-block;
+    height: 100%;
+    width: 33%;
+    vertical-align: top;
+    font-family: Lato, sans-serif;
+
 }
+
 #center-div h2 {
-    text-align: center;  
+    text-align: center;
     padding-top: 10px;
 }
 
 #center-div p {
     padding-left: 10px;
-    
+
 }
 
 #center-div h3 {
     padding-left: 10px;
-    font-family:Lato, sans-serif; 
+    font-family: Lato, sans-serif;
 }
 
 #left-list li {
-    list-style-type: none;  /* remove default bullet points */
-    font-family:Lato, sans-serif; 
+    list-style-type: none;
+    /* remove default bullet points */
+    font-family: Lato, sans-serif;
     font-size: 120%;
     padding-bottom: 10px;
-    }
+}
 
 #right-list li {
-    list-style-type: none;  /* remove default bullet points */
-    font-family:Lato, sans-serif; 
+    list-style-type: none;
+    /* remove default bullet points */
+    font-family: Lato, sans-serif;
     font-size: 120%;
     padding-bottom: 10px;
 }
@@ -165,29 +193,29 @@ section h2 {
 #map img {
     width: 100%;
     margin-bottom: 1px;
-        
+
 }
 
 /*style booking form page */
 
-#my-booking{
+#my-booking {
     display: flex;
+    height: 80vh;
 }
 
 #my-booking div {
-    
-    height: 500px;
     margin-bottom: 25px;
-    
-    }
 
-#left-div {    
-    background-color:navy;    
-    position: relative; 
-    width:33%;     
 }
-#left-div img{
-    border-radius: 50%;  
+
+#left-div {
+    background-color: navy;
+    position: relative;
+    width: 33%;
+}
+
+#left-div img {
+    border-radius: 50%;
     position: absolute;
     margin: auto;
     top: 0;
@@ -198,19 +226,21 @@ section h2 {
 
 #booking-form {
     background: url("/assets/images/site.jpg");
-    background-size: cover; 
-    position: relative; 
-    vertical-align: top;  
-    width:33%;    
+    background-size: cover;
+    position: relative;
+    vertical-align: top;
+    width: 33%;
 }
-#right-div {    
-    background-color:navy;   
+
+#right-div {
+    background-color: navy;
     position: relative;
     width: 33%;
-           
+
 }
-#right-div img{
-    border-radius: 50%;  
+
+#right-div img {
+    border-radius: 50%;
     position: absolute;
     margin: auto;
     top: 0;
@@ -225,13 +255,13 @@ form h2 {
     font-family: lato, sans-serif;
     font-size: 150%;
     padding-left: 10px;
-    
+
 }
 
 form label {
-    padding-left: 10px;    
+    padding-left: 10px;
     margin-bottom: 10px;
-    font-family:lato, sans-serif;
+    font-family: lato, sans-serif;
 }
 
 form input {
@@ -240,11 +270,13 @@ form input {
     padding-left: 100px;
     margin-bottom: 10px;
 }
+
 #submit {
     background-color: green;
     text-align: center;
-    width: 75px;;
-    padding-left: 10px;    
+    width: 75px;
+    ;
+    padding-left: 10px;
 }
 
 /*style explore page */
@@ -256,8 +288,9 @@ form input {
     display: block;
     margin: 20px auto;
 }
+
 .be-active h3 {
-    text-align: center ;
+    text-align: center;
 }
 
 .be-active img {
@@ -269,40 +302,47 @@ form input {
 .be-active p {
     font-family: lato, sans-serif;
 }
+
 /* Style the footer */
 
 
 #call-to-action {
     height: 150px;
-    background-color:black;
-    font-family: lato, sans-serif;   
-    width:100%;  
-    overflow: hidden;   
+    background-color: black;
+    font-family: lato, sans-serif;
+    width: 100%;
+    overflow: hidden;
     display: flex;
-    }
+    justify-content: space-around;
+}
 
 #link-me {
-    width: 33%;   
-    text-decoration: none;
-    list-style-type: none;      
-    float: left; 
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    display: flex;
 }
 
 #link-me li {
     display: inline;
     font-size: 200%;
-    text-align: center;    
+    text-align: center;
     height: 100%;
     color: white;
+    margin-right: 10px;
 }
 
 #footer-mid {
-    width: 33%;
-    float: left;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
-#footer-mid h2 {
+
+#footer-mid>* {
     text-align: center;
     color: white;
+    font-size: 1rem;
 }
 
 #footer-right {
@@ -310,14 +350,14 @@ form input {
     float: left;
     text-align: center;
     color: white;
-    
+
 }
 
 #footer-right a {
     font-family: lato, sans-serif;
     font-size: 120%;
     text-decoration: none;
-    color: white;    
+    color: white;
 }
 
 /* make icon yellow once followed */
@@ -326,82 +366,95 @@ form input {
 }
 
 #social-media-links a:visited {
-    color:yellow;
+    color: yellow;
 }
 
 /* mobile phones */
 @media only screen and (max-width: 768px) {
-    #call-to-action {        
-        width:100%;  
-        font-size: 0.8rem;        
-        }
+    #call-to-action {
+        width: 100%;
+        font-size: 0.8rem;
+    }
+
     #my-booking {
-        display: flex;        
+        display: flex;
         flex: 1;
         flex-direction: column;
-        align-items: center;
+        align-items: flex-start;
         width: 100%;
-           }
-      
+    }
+
+    #left-div {
+        width: 100%;
+    }
+
+    #booking-form {
+        width: 100%;
+    }
+
+    #right-div {
+        width: 100%;
+    }
+
+    left-div img {
+        width: 100%;
+        padding-bottom: 100%;
+    }
+
+
 }
 
 /* for tablet */
 @media only screen and (max-width: 992px) {
-    .site-info{
+    .site-info {
         flex-direction: column;
+    }
+
+    nav ul{
+        display: flex;
+        justify-content: center;
     }
 
     .site-info-card {
         width: 90% !important;
         margin: 20px auto;
     }
-    #call-to-action {        
-        width:100%;          
-        }        
-    
-    header {
-        flex-direction: column;
-        margin-bottom: 5px;             
-    }
-    #banner {
-        width:100%;
-        background-color: blueviolet;
-    }
-    #page-nav {
-        width: 100%;  
-        background-color: green ;      
+
+    #call-to-action {
+        width: 100%;
     }
 
-    #banner h1{
+    header {
+        flex-direction: column;
+        margin-bottom: 5px;
+    }
+
+    #banner {
+        width: 100%;
+
+    }
+
+    #page-nav {
+        width: 100%;
+        /* background-color: green ;       */
+    }
+
+    #banner h1 {
         font-size: 1.2em;
         text-align: center;
     }
-    #header-nav li a {        
-        font-size: 0.7em;    
-        display: inline;   
-        text-align: center;                
+
+    #header-nav li a {
+        font-size: 0.7em;
+        display: inline;
+        text-align: center;
     }
-    .be-active div {        
-        height:auto;
+
+    .be-active div {
+        height: auto;
         border: 1px solid black;
         display: block;
         margin: 20px auto;
         overflow: scroll;
     }
 }
-    
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
