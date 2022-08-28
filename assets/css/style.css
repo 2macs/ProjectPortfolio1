@@ -168,14 +168,17 @@ section h2 {
         
 }
 
-
 /*style booking form page */
+
+#my-booking{
+    display: flex;
+}
 
 #my-booking div {
     
     height: 500px;
     margin-bottom: 25px;
-    float: left;    
+    
     }
 
 #left-div {    
@@ -330,10 +333,16 @@ form input {
 @media only screen and (max-width: 768px) {
     #call-to-action {        
         width:100%;  
-        font-size: 0.8rem;
-        
+        font-size: 0.8rem;        
         }
-
+    #my-booking {
+        display: flex;        
+        flex: 1;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+           }
+      
 }
 
 /* for tablet */
@@ -346,10 +355,8 @@ form input {
         width: 90% !important;
         margin: 20px auto;
     }
-    #call-to-action {
-        
-        width:100%;  
-        
+    #call-to-action {        
+        width:100%;          
         }        
     
     header {
