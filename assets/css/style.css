@@ -271,7 +271,7 @@ form input {
 
 #call-to-action {
     height: 150px;
-    background-color: darkslategrey;
+    background-color:black;
     font-family: lato, sans-serif;   
     width:100%;  
     overflow: hidden;   
@@ -290,6 +290,7 @@ form input {
     font-size: 200%;
     text-align: center;    
     height: 100%;
+    color: white;
 }
 
 #footer-mid {
@@ -298,12 +299,14 @@ form input {
 }
 #footer-mid h2 {
     text-align: center;
+    color: white;
 }
 
 #footer-right {
     width: 33%;
     float: left;
     text-align: center;
+    color: white;
     
 }
 
@@ -311,7 +314,7 @@ form input {
     font-family: lato, sans-serif;
     font-size: 120%;
     text-decoration: none;
-    color: black;    
+    color: white;    
 }
 
 /* make icon yellow once followed */
