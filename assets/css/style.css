@@ -350,9 +350,8 @@ form input {
         
         width:100%;  
         
-        }
-        
-    }
+        }        
+    
     header {
         flex-direction: column;
         margin-bottom: 5px;             
@@ -382,8 +381,9 @@ form input {
         margin: 20px auto;
         overflow: scroll;
     }
-    
 }
+    
+
 
 
 
