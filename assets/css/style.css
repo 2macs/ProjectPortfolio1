@@ -384,8 +384,11 @@ form input {
         width: 100%;
     }
 
+    #right-div {
+        display: none;
+    }
     #left-div {
-        width: 100%;
+        display: none;
     }
 
     #booking-form {
@@ -457,4 +460,5 @@ form input {
         margin: 20px auto;
         overflow: scroll;
     }
+    
 }
