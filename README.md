@@ -16,6 +16,9 @@ The page Banner shows the Motorhome banner and has three links - Home, Explore L
 
 The footer of the website is split into 3 sections. On the bottom left are links to popular social media websites, these website open in a separate tab. The centre section has a "Call to Action" to prompt a follow up from a potential customer. The right hand bottom section gives the customer another opportunity to make a booking enquiry. 
 
+![Site header, black text on white background](assets/images/footer.png)
+
+
 
 
 
