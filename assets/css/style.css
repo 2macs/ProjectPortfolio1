@@ -57,7 +57,7 @@ header {
 
 /*style main image landing page */
 #park-view {
-    background-image: url("/assets/images/IMG_2094.jpg");
+    background-image: url(../images/IMG_2094.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
