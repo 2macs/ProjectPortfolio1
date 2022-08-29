@@ -18,6 +18,21 @@ The footer of the website is split into 3 sections. On the bottom left are links
 
 ![Site header, black text on white background](assets/images/footer.png)
 
+### Landing Page Image
+
+![Landing page main image](assets/images/IMG_2094.jpg)
+
+The landing page image shows a view of the ocean from the park, it is indicative of the type of scenery to be experienced when staying at the motorhome park. 
+
+### Site Amenities section
+
+This section details the facilities available at the park, some background on the park and a list of park rules / guidelines. A potential visitor can see quite quickly if the site fulfils some or all of their travel needs.
+
+
+
+
+
+
 
 
 
