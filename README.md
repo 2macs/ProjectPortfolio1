@@ -113,6 +113,16 @@ Prior to deploying the website the following testing was completed:
 34. Booking Enquiry - Footer, telephone number clear, easy to read - Passed.
 35. Booking Enquiry - Footer, click Booking Enquiry form, open Enquiry form page - Passed. 
 36. Booking Enquiry - Footer, once clicked, all links turn yellow - Passed.
+37. Landing Page - mobile size, all elements clearly defined - Passed.
+38. Landing Page - mobile size, Header nav links under main banner - Passed.
+39. Landing Page - Mobile size, amenity , Overview, rules sections stacked on each other - Passed.
+40. Landing Page - Mobile size, footer intact and readable - Passed.
+41. Explore Locally - Mobile size, Header nav links under main banner - Passed.
+42. Explore Locally - Mobile size, sections stacked as a column and readable - Passed.
+43. Explore locally - Mobile size, footer intact and readable - Passed.
+44. Booking Enquiry - Mobile size, motorhome images removed for clarity - Passed.
+45. Booking Enquiry - Mobile size, form integrity maintained - Passed.
+46. Booking Enquiry - Mobile size, footer intact and readable - Passed.
 
 
 
