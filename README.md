@@ -149,6 +149,38 @@ This site was deployed to GITHUB pages. The steps taken were as follows;
 * Live link to site can be found here :         https://2macs.github.io/ProjectPortfolio1/
 * Github link to project can be found here :    https://github.com/2macs/ProjectPortfolio1
 
+## Credits
+
+### Content
+All the icons used on this website were found on https://fontawesome.com/
+The Lato font type was found on https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Oswald&display=swap
+The styling of the Nav bar was sourced as per the Love Running project - code Institute
+The highlighting of nav items was as per the Coder Coffeehouse - code Institute
+To position the 3 columns on the index page, a solution was located at https://stackoverflow.com/
+Changing link colors once visited found here https://www.w3schools.com/html/html_links_colors.asphttps://www.w3schools.com/html/html_links_colors.asp
+Guide to flexbox and how to use was reviewed here https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Text book used as reference - HTML, CSS and Javascript All in One , Sams Teach Yourself.
+Websites routinely used for problem solving include :
+    https://www.w3schools.com/
+    https://stackoverflow.com/
+    https://www.geeksforgeeks.org/
+    https://www.codecademy.com/
+
+### Media
+* Main on banner on landing page - Ann McMahon (spouse).
+* All icons from fontawesome.
+* Map image on landing page is a snip from Google Maps. 
+* Motorhome image on booking enquiry form - Ann McMahon (spouse)
+* Site image on booking form is from http://www.doolincamping.com/facilities/
+* Image of surfer from here https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGXypcDFjojnrp3rkdwhpGbXzkSFIHbqs54eyL7ZO1hw&s
+* Image of the Burren and Cliff of Moher freely - source not recorded. Freely available online.
+
+End of README
+
+
+
+
+
 
 
 
