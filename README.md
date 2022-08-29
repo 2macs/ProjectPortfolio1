@@ -54,6 +54,10 @@ Lahinch offers everything in terms of the surfing experience. It is expected tha
 ### The Burren
 The Burren is another reason many people come to Clare. The area attracts hikers, botanists, tourists, fishermen etc. Again being close the Burren is an advantage for the Motorhome park. The website contains a link to enable a curious visitor to find out more about the Burren, this link opens in a new tab as do the others on this page. 
 
+![Landing page main image](assets/images/burren-section.png)
+
+
+
 
 
 
