@@ -127,6 +127,9 @@ Prior to deploying the website the following testing was completed:
 ### Testing - Bugs
 
 1. Data entry to Booking form is center located, may go off form.
+    Issue fixed, removed a padding reference and increased element width.
+
+
 
 
 
