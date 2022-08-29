@@ -57,9 +57,17 @@ The Burren is another reason many people come to Clare. The area attracts hikers
 ![Landing page main image](assets/images/burren-section.png)
 
 ### The Booking Form
-This page has two features. The first feature is a booking enquiry form, the visitor can fill in some basic details, planned arrival and departure dates and submit. The site owner will then respond with options. A future enhancement would be to allow the visitor to select a pitch, book and pay online in advance of arrival. 
+This page has two features. The first feature is a booking enquiry form, the visitor can fill in some basic details, planned arrival and departure dates and submit. The site owner will then respond with options. A future enhancement would be to allow the visitor to select a pitch, book and pay online in advance of arrival. Note each field in the booking form is a required field and cannot be submitted unless fully completed. 
 
-![Landing page main image](assets/images/burren-section.png)
+![Landing page main image](assets/images/enquiry-form.png)
+
+This page also has an image of a Sunlight T64 motorhome sitting in one of our more private pitches. Note this image is hidden for mobile screens. 
+
+![Landing page main image](assets/images/moho-in-pitch.png)
+
+
+
+
 
 
 
