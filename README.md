@@ -26,7 +26,7 @@ The landing page image shows a view of the ocean from the park, it is indicative
 
 ### Site Amenities section
 
-This section details the facilities available at the park, some background on the park and a list of park rules / guidelines. A potential visitor can see quite quickly if the site fulfils some or all of their travel needs.
+This section details the facilities available at the park, some background on the park and a list of park rules / guidelines. A potential visitor can see quite quickly if the site fulfils some or all of their travel needs. At the top of this section there are links to enable the visitor to navigate to and from different sections of this page.
 
 ![Landing page main image](assets/images/site-amenities.png)
 
