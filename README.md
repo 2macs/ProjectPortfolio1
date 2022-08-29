@@ -101,7 +101,18 @@ Prior to deploying the website the following testing was completed:
 22. Explore Locally - Footer, telephone number clear, easy to read - Passed.
 23. Explore Locally - Footer, click Booking Enquiry form, open Enquiry form page - Passed. 
 24. Explore Locally - Footer, once clicked, all links turn yellow - Passed.
-
+25. Booking Enquiry - hover over nav links , should highlight and invert colours - Passed
+26. Booking Enquiry - click nav links at top of page, should navigate to / from other pages - Passed.
+27. Booking Enquiry - Motorhome image left and right, site image in center - Passed.
+28. Booking Enquiry - Booking form appears on site image - Passed.
+29. Booking Enquiry - click Submit, no fields completed, should see error - Passed.
+30. Booking Enquiry - click Submit , any field blank , should see error - Passed.
+31. Booking Enquiry - Click Submit, all fields complete, see receipt from Code Institute - Passed.
+32. Booking Enquiry - Footer, white text on black background for clarity - Passed.
+33. Booking Enquiry - Footer, click each social media app, open in new tab - Passed. 
+34. Booking Enquiry - Footer, telephone number clear, easy to read - Passed.
+35. Booking Enquiry - Footer, click Booking Enquiry form, open Enquiry form page - Passed. 
+36. Booking Enquiry - Footer, once clicked, all links turn yellow - Passed.
 
 
 
