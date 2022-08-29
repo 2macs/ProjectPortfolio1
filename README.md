@@ -65,6 +65,15 @@ This page also has an image of a Sunlight T64 motorhome sitting in one of our mo
 
 ![Landing page main image](assets/images/moho-in-pitch.png)
 
+## Future Enhancements
+Active connection to Google maps location - to enable exploration of surrounding areas.
+
+Addition of places to explore - further convince a prospective visitor that this is a great area to come and visit.
+
+Automate booking and billing capability - enable start to end experience for the prospective visitor.
+
+
+
 
 
 
