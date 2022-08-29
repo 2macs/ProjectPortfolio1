@@ -18,8 +18,7 @@ header {
 }
 
 #banner h1 {
-    font-size: 2ev;
-    /* header stand out */
+    font-size: 2em;  /* header stand out */
 }
 
 #Page-nav {

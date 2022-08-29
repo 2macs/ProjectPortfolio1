@@ -142,10 +142,13 @@ CSS
 
 This site was deployed to GITHUB pages. The steps taken were as follows;
 * In the GitHub repository, navigate to the Settings tab
-* From the source section drop-down menu, select the Master Branch
-* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to  
-  indicate the successful deployment.
-* Live link to site can be found here : 
+* Click Pages on left sidebar.
+* Under Build and Deployment , ensure Source dropdown says Deploy from a branch.
+* Select Branch - main from dropdown
+
+* Live link to site can be found here :         https://2macs.github.io/ProjectPortfolio1/
+* Github link to project can be found here :    https://github.com/2macs/ProjectPortfolio1
+
 
 
 
