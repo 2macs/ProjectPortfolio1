@@ -56,6 +56,13 @@ The Burren is another reason many people come to Clare. The area attracts hikers
 
 ![Landing page main image](assets/images/burren-section.png)
 
+### The Booking Form
+This page has two features. The first feature is a booking enquiry form, the visitor can fill in some basic details, planned arrival and departure dates and submit. The site owner will then respond with options. A future enhancement would be to allow the visitor to select a pitch, book and pay online in advance of arrival. 
+
+![Landing page main image](assets/images/burren-section.png)
+
+
+
 
 
 
