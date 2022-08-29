@@ -41,6 +41,17 @@ The site location map shows the visitor where the park is located and enables th
 This section gives a potential visitor an idea of some of the key attractions located near to the park. Right now there are 3 attractions listed, this could be expanded greatly in future iterations of the website.
 
 
+### The cliffs of Moher
+The cliffs of Moher are one of Irelands most popular tourist attractions and are on most visitors bucket lists whether an international or domestic visitor to the area. There is a link included which enables the curiouys visitor to dig deeper and find out more.
+
+![Landing page main image](assets/images/moher-section.png)
+
+
+
+
+
+
+
 
 
 
