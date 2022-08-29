@@ -46,6 +46,17 @@ The cliffs of Moher are one of Irelands most popular tourist attractions and are
 
 ![Landing page main image](assets/images/moher-section.png)
 
+### Surfing in Lahinch
+Lahinch offers everything in terms of the surfing experience. It is expected that many of the people that visit the motorhome website will have an interest in surfing or surfing lessons.
+
+![Landing page main image](assets/images/lahinch-section.png)
+
+
+
+
+
+
+
 
 
 
