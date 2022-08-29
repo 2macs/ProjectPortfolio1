@@ -89,6 +89,20 @@ Prior to deploying the website the following testing was completed:
 10. Landing Page - Footer, telephone number clear, easy to read - Passed.
 11. Landing Page - Footer, click Booking Enquiry form, open Enquiry form page - Passed. 
 12. Landing Page - Footer, once clicked, all links turn yellow - Passed.
+13. Explore Locally - hover over nav links , should highlight and invert colours - Passed
+14. Explore Locally - click nav links at top of page, should navigate to / from other pages - Passed.
+15. Explore Locally - three evenly spaced sections on screed - Passed.
+16. Explore Locally - Cliffs on Moher link, open in new tab - Passed.
+17. Explore Locally - Lahinch Information link, open in new tab - Passed.
+18. Explore Locally - Burren National Park link, open in new tab - Passed.
+19. Explore Locally - Footer located at bottom of screen below image - Passed.
+20. Explore Locally - Footer, white text on black background for clarity - Passed.
+21. Explore Locally - Footer, click each social media app, open in new tab - Passed. 
+22. Explore Locally - Footer, telephone number clear, easy to read - Passed.
+23. Explore Locally - Footer, click Booking Enquiry form, open Enquiry form page - Passed. 
+24. Explore Locally - Footer, once clicked, all links turn yellow - Passed.
+
+
 
 
 
