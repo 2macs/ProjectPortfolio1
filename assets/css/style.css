@@ -226,7 +226,7 @@ section h2 {
 }
 
 #booking-form {
-    background: url("/assets/images/site.jpg");
+    background: url(../images/site.jpg);
     background-size: cover;
     position: relative;
     vertical-align: top;
