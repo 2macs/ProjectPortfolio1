@@ -124,6 +124,10 @@ Prior to deploying the website the following testing was completed:
 45. Booking Enquiry - Mobile size, form integrity maintained - Passed.
 46. Booking Enquiry - Mobile size, footer intact and readable - Passed.
 
+### Testing - Bugs
+
+1. Data entry to Booking form is center located, may go off form.
+
 
 
 
