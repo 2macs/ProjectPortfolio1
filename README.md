@@ -5,5 +5,15 @@ The last number of years, possibly aided by the COVID pandemic and associated tr
 
 When a potential customer accesses a motorhome website, especially for a place they have not been before, they have a number of questions in mind that they need answered quickly and clearly. These questions include where exactly is the motohome park?, what facilities are available?, what are the site rules ? , how far is the site from a town etc, how much does it cost per night?  This website answers all those questions clearly on the landing page. The site then also facilitates further exploration of the locality and finally a booking request can be made. 
 
-![alt text](assets/images/site.jpg)
+![This is a picture of the park](assets/images/site.jpg)
+
+## Site Features
+The following features are common to each of the website pages;
+
+The page Banner shows the Motorhome banner and has three links - Home, Explore Locally and Booking Enquiry. Each page will be explained in more detail however these links enable the visitor to navigate seamlessly between the website pages.
+
+![Site header, black text on white background](assets/images/banner.png)
+
+
+
 
