@@ -36,6 +36,11 @@ The site location map shows the visitor where the park is located and enables th
 
 ![Landing page main image](assets/images/freagh.PNG)
 
+### Places to Explore section
+
+This section gives a potential visitor an idea of some of the key attractions located near to the park. Right now there are 3 attractions listed, this could be expanded greatly in future iterations of the website.
+
+
 
 
 
