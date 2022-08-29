@@ -138,6 +138,15 @@ HTML
 CSS
 * No errors were returned when passing through the official Jigsaw validator
 
+## Deployment
+
+This site was deployed to GITHUB pages. The steps taken were as follows;
+* In the GitHub repository, navigate to the Settings tab
+* From the source section drop-down menu, select the Master Branch
+* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to  
+  indicate the successful deployment.
+* Live link to site can be found here : 
+
 
 
 
