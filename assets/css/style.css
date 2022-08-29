@@ -128,9 +128,7 @@ section h2 {
 #left-div-index {
     display: inline-block;
     height: 100%;
-    width: 30%;
-    /* using 33% pushed evrything down */
-    color: blue;
+    width: 30%; /* using 33% pushed everything down */
     vertical-align: top;
 }
 
@@ -144,7 +142,6 @@ section h2 {
     height: 100%;
     width: 33%;
     vertical-align: top;
-    color: blue;
 }
 
 #right-div-index h2 {

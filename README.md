@@ -130,6 +130,12 @@ Prior to deploying the website the following testing was completed:
     Issue fixed, removed a padding reference and increased element width.
 
 
+### Validator Testing
+
+HTML
+* No errors were returned when passing through the official W3C validator
+
+
 
 
 
