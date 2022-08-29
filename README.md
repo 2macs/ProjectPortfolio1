@@ -135,6 +135,9 @@ Prior to deploying the website the following testing was completed:
 HTML
 * No errors were returned when passing through the official W3C validator
 
+CSS
+* No errors were returned when passing through the official Jigsaw validator
+
 
 
 

@@ -216,6 +216,8 @@ section h2 {
 
 #left-div img {
     border-radius: 50%;
+    height: 30vw;
+    width: 30vw;
     position: absolute;
     margin: auto;
     top: 0;
@@ -245,6 +247,8 @@ section h2 {
 
 #right-div img {
     border-radius: 50%;
+    width:30vw;
+    height: 30vw;
     position: absolute;
     margin: auto;
     top: 0;
