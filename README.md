@@ -73,6 +73,24 @@ Addition of places to explore - further convince a prospective visitor that this
 Automate booking and billing capability - enable start to end experience for the prospective visitor.
 
 
+## Testing 
+
+Prior to deploying the website the following testing was completed:
+
+1.  Open website and ensure Landing page appears as expected - Passed 
+2.  Landing Page - hover over nav links , should highlight and invert colours - Passed
+3.  Landing Page - click nav links at top of page, should navigate to / from other pages - Passed.
+4.  Landing Page - Park View should appear in center of main background image - Passed. 
+5.  Landing Page - On page links should move to relevant sections of page - Passed.
+6.  Landing Page - Image of map is readable and full width of screen - Passed.
+7.  Landing Page - Footer located at bottom of screen below image - Passed.
+8.  Landing Page - Footer, white text on black background for clarity - Passed.
+9.  Landing Page - Footer, click each social media app, open in new tab - Passed. 
+10. Landing Page - Footer, telephone number clear, easy to read - Passed.
+11. Landing Page - Footer, click Booking Enquiry form, open Enquiry form page - Passed. 
+12. Landing Page - Footer, once clicked, all links turn yellow - Passed.
+
+
 
 
 
