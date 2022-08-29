@@ -28,6 +28,17 @@ The landing page image shows a view of the ocean from the park, it is indicative
 
 This section details the facilities available at the park, some background on the park and a list of park rules / guidelines. A potential visitor can see quite quickly if the site fulfils some or all of their travel needs.
 
+![Landing page main image](assets/images/site-amenities.png)
+
+### Site location map
+
+The site location map shows the visitor where the park is located and enables the user to plan on how to get there. This is an image right now rather than an active connection into Google maps. Future iteration of the page could have an active connection into Google maps to enable searching around the locality.
+
+![Landing page main image](assets/images/freagh.PNG)
+
+
+
+
 
 
 
