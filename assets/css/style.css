@@ -233,7 +233,11 @@ section h2 {
     position: relative;
     vertical-align: top;
     width: 33%;
-}
+    }
+    #booking-form > input {
+        text-align: left;
+    }
+
 
 #right-div {
     background-color: navy;
@@ -268,11 +272,11 @@ form label {
 }
 
 form input {
-    width: 100px;
-    margin-left: 10px;
-    padding-left: 100px;
-    margin-bottom: 10px;
-}
+        width: 200px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+
 
 #submit {
     background-color: green;
