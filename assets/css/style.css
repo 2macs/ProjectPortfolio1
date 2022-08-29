@@ -1,6 +1,7 @@
 /* Import cool fonts, Lato one of the most commonly used */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Oswald&display=swap');
 
+
 /* Style the header */
 header {
     width: 100%;
@@ -30,18 +31,15 @@ header {
     /* nav options to the right */
     margin-right: 40px;
     /* space between options */
-    font-family: Lato, sans-serif;
-    /* consistent with banner */
-    list-style-type: none;
-    /* remove default bullet points */
+    font-family: Lato, sans-serif;     /* consistent with banner */
+    list-style-type: none;     /* remove default bullet points */
     display: inline;
 }
 
 #header-nav li a {
     color: black;
     font-size: 1.2em;
-    text-decoration: none;
-    /* remove default underline */
+    text-decoration: none;     /* remove default underline */
 }
 
 /* Highlight menu selection */
@@ -174,16 +172,14 @@ section h2 {
 }
 
 #left-list li {
-    list-style-type: none;
-    /* remove default bullet points */
+    list-style-type: none; /* remove default bullet points */
     font-family: Lato, sans-serif;
     font-size: 120%;
     padding-bottom: 10px;
 }
 
 #right-list li {
-    list-style-type: none;
-    /* remove default bullet points */
+    list-style-type: none;     /* remove default bullet points */
     font-family: Lato, sans-serif;
     font-size: 120%;
     padding-bottom: 10px;
@@ -232,9 +228,9 @@ section h2 {
     vertical-align: top;
     width: 33%;
     }
-    #booking-form > input {
-        text-align: left;
-    }
+#booking-form input {
+    text-align: left;
+}
 
 
 #right-div {
